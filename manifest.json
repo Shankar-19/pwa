@@ -1,0 +1,15 @@
+{
+    "name": "demo wolf",
+    "short_name": "demo wolf",
+    "icons": [{
+        "src": "/icons/maskable_icon.png",
+        "sizes": "853x853",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "dodgerblue",
+    "theme_color": "dodgerblue"
+}
